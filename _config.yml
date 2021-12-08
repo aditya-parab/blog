@@ -18,11 +18,11 @@
 ##############################
 text_skin: expolab # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://resilientdb.com # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://github.com/aditya-parab/blog # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : /blog # does not include hostname
-title   : ExpoBlog
+title   : LinkedChain
 description: > # this means to ignore newlines until "Language & timezone"
-  Documentation for the high-throughput yielding distributed ledger built upon scale-centric design principles to democratize and decentralize computation.
+  A secure employee experience management system built on Ethereum blockchain
 
 
 ## => Language and Timezone
@@ -35,13 +35,13 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : organization # "person" (default), "organization"
-  name      : Exploratory Systems Lab
+  name      : ECS 265 Project Group
   url       :
-  avatar    : https://resilientdb.com/img/team_img/mo.jpeg # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  avatar    : # path or url of avatar image (square)
+  bio       : ECS 265 Project Group
   email     : 
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : resilientdb # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
@@ -49,13 +49,13 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : resilientdb # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : aditya-parab/blog # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: resilientdb/blog
+repository: aditya-parab/blog
 repository_tree: main
 
 
