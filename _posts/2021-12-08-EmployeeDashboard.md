@@ -20,11 +20,11 @@ Potential Employees can use this portal to register and put up their details on 
 
 The fields to be submitted are:
 
-1. **Employee Public Key**: Public Key of Employee
+1. **Employee Public Key**: Public key of employee
 2. **Employee SSN**: Social Security Number required for unique identification
-3. **Employer Name**: Name of the Employer
-4. **Employer Address**: Address of the Employee
-5. **Employee Phone Number**: Phone number of Employee
+3. **Employee Name**: Name of the employee
+4. **Employee Address**: Address of the employee
+5. **Employee Phone Number**: Phone number of employee
 
 When we click on submit, the prompt asks us to verify the submitted details. This prevents unnecessary and accidental Matic expenditure used to add records to the Ethereum blockchain.
 
@@ -33,7 +33,7 @@ The following GIF elucidates the registration procedure.
 ![Employee Registration Process]({{ site.baseurl }}/assets/videos/employee_registration.gif)
 
 ## Employee Dashboard
-Upon successful registration of Employee profile, the user reaches the Employee Dashboard. This displays the Employee details along with the current status of the submitted employee experience verification requests. The requests are sent via the form to those employers that the user has worked with. 
+Upon successful registration of employee profile, the user reaches the employee dashboard. This displays the employee details along with the current status of the submitted employee experience verification requests. The requests are sent via the form to those employers that the user has worked with. 
 
 The process of successful registration is shown in the below GIF. 
 
