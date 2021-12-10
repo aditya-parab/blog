@@ -35,16 +35,14 @@ key: page-about
 <div class="item">
      <a href="https://github.com/aditya-parab">
       <div class="item__image">
-        <img class="image card card--clickable image--lg" src="{{ site.baseurl }}/assets/images/LinkedChain/linkedchain_logo.png"/>
+        <img class="image card card--clickable image--lg" src="{{ site.baseurl }}/assets/images/LinkedChain/adi_profilepic.jpg"/>
       </div>
     </a>
   <div class="item__content">
     <div class="item__header">
       <h4>Aditya Parab <a href="mailto:aparab@ucdavis.edu">aparab@ucdavis.edu</a></h4>
     </div>
-     <div class="item__image">
-        <img class="image card card--clickable image--lg" src="{{ site.baseurl }}/assets/images/LinkedChain/adi_profilepic.jpg"/>
-      </div>
+   
     <div class="item__description">
       <p>A graduate student studying Computer Science at UC Davis. Did his undergraduate in Mechatronics Engineering from McMaster University. Is interested in Data Analytics, Machine learning and Reinforcement learning, for now. Likes drinking coffee, playing soccer and reading fiction novels.</p>
     </div>
