@@ -68,7 +68,7 @@ key: page-about
 <div class="item">
    <a href="https://github.com/MaanasVohra"> 
       <div class="item__image">
-        <img class="image card card--clickable image--lg" src="{{ site.baseurl }}/assets/images/LinkedChain/linkedchain_logo.png"/>
+        <img class="image card card--clickable image--lg" src="{{ site.baseurl }}/assets/images/LinkedChain/maanasvohra.jpeg"/>
       </div>
     </a>
   <div class="item__content">
@@ -76,7 +76,7 @@ key: page-about
       <h4>Maanas Vohra <a href="mailto:mvohra@ucdavis.edu">mvohra@ucdavis.edu</a></h4>
     </div>
     <div class="item__description">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit iaculis sapien eget fermentum. Suspendisse cursus dolor id efficitur ullamcorper. Nunc commodo imperdiet varius. Curabitur aliquet, magna at scelerisque interdum, ante dui viverra augue, et pulvinar ligula lacus finibus ipsum. Mauris sed blandit massa. Duis porttitor eleifend mollis. Etiam eu quam et ante vehicula eleifend nec iaculis dui. Phasellus eu sem tincidunt, porttitor enim at, imperdiet libero. Cras pellentesque non lorem eu molestie. Donec imperdiet risus consequat turpis ultricies dictum sit amet eu nunc.</p>
+      <p>I’m an MS CS graduate student at The University of California, Davis. Previously, I was working at Swiggy as a Software Dev Engineer-I in the CRM team. Prior to that, I was working as a software engineer at Cisco Systems, Bangalore. I have avid interest in full-stack web development, backend engineering, and distributed systems, and I dabble with code and jupyter notebooks in the field of Machine Learning and Data Science. In my free time, I listen to podcasts, watch The Office and play CS GO, in no particular order. </p>
     </div>
   </div>
 </div>
