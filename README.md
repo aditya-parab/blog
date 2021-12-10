@@ -1,4 +1,4 @@
-# ResilientDB Docs
+# LinkedChain: https://aditya-parab.github.io/blog/
 
 Site Settings are located in `_config.yml`
 Posts are written in markdown in `_posts/` directory. Follow file naming convention.
