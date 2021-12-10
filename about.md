@@ -4,7 +4,6 @@ title: About Us
 key: page-about
 ---
 
-
 <p style="text-align:center;">
     <!-- <img src="{{ site.baseurl }}/assets/expolab-icon-alt.png" width="70%" height="70%" alt="ExpoLab Logo"/> -->
     <img src="{{ site.baseurl }}/assets/images/LinkedChain/linkedchain_logo.png" width="50%" height="50%" alt="LinkedChain Logo"/>
@@ -43,6 +42,9 @@ key: page-about
     <div class="item__header">
       <h4>Aditya Parab <a href="mailto:aparab@ucdavis.edu">aparab@ucdavis.edu</a></h4>
     </div>
+     <div class="item__image">
+        <img class="image card card--clickable image--lg" src="{{ site.baseurl }}/assets/images/LinkedChain/adi_profilepic.jpg"/>
+      </div>
     <div class="item__description">
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit iaculis sapien eget fermentum. Suspendisse cursus dolor id efficitur ullamcorper. Nunc commodo imperdiet varius. Curabitur aliquet, magna at scelerisque interdum, ante dui viverra augue, et pulvinar ligula lacus finibus ipsum. Mauris sed blandit massa. Duis porttitor eleifend mollis. Etiam eu quam et ante vehicula eleifend nec iaculis dui. Phasellus eu sem tincidunt, porttitor enim at, imperdiet libero. Cras pellentesque non lorem eu molestie. Donec imperdiet risus consequat turpis ultricies dictum sit amet eu nunc.</p>
     </div>
