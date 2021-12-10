@@ -22,12 +22,12 @@ key: page-about
       <h4>Naveen Kanuri <a href="mailto:vskanuri@ucdavis.edu">vskanuri@ucdavis.edu</a></h4>
     </div>
     <div class="item__description">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit iaculis sapien eget fermentum. Suspendisse cursus dolor id efficitur ullamcorper. Nunc commodo imperdiet varius. Curabitur aliquet, magna at scelerisque interdum, ante dui viverra augue, et pulvinar ligula lacus finibus ipsum. Mauris sed blandit massa. Duis porttitor eleifend mollis. Etiam eu quam et ante vehicula eleifend nec iaculis dui. Phasellus eu sem tincidunt, porttitor enim at, imperdiet libero. Cras pellentesque non lorem eu molestie. Donec imperdiet risus consequat turpis ultricies dictum sit amet eu nunc.</p>
+      <p>I'm Naveen, a graduate student at University of California Davis. Completed my undergraduation from BITS Pilani, Pilani Campus, having experience with diverse range of backgrounds which include R&D, internal business units, start-ups and acquired a rich combination of research and technical expertise. Worked on Embedded Systems, Game Development and Web Development handling large codebases, debugging an algorithmically complex piece of software, and solving problems that require in-depth evaluation. I'm interested in AI, Machine Learning and Computer Graphics. In my freetime, I enjoy reading high fantasy novels, politics, psychology and world history.</p>
     </div>
   </div>
    <a href="https://github.com/naveenkanuri/">
       <div class="item__image">
-        <img class="image card card--clickable image--lg" src="{{ site.baseurl }}/assets/images/LinkedChain/linkedchain_logo.png"/>
+        <img class="image card card--clickable image--lg" src="{{ site.baseurl }}/assets/images/LinkedChain/naveen_profilepic.jpeg"/>
       </div>
     </a>
 </div>
