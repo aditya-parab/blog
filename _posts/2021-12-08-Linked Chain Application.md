@@ -242,3 +242,7 @@ We aim to improve the current product by implementing more features in the futur
  - Send status updates by email or push notification to subscribed users
  - Automatically import data from LinkedIn and send work history requests to Employers
  - Add more UI elements (e.g. loading screen, add more user interaction etc.)
+
+## Demo
+
+This is the demo for the LinkedChain project: [demo link](https://drive.google.com/file/d/1wnAw6QJL25qaYlb_K75zMOUw3DY-a0kv/view?usp=sharing)
