@@ -55,12 +55,12 @@ key: page-about
       <h4>Abhishek Gokhale <a href="mailto:agokhale@ucdavis.edu">agokhale@ucdavis.edu</a></h4> 
     </div>
     <div class="item__description">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit iaculis sapien eget fermentum. Suspendisse cursus dolor id efficitur ullamcorper. Nunc commodo imperdiet varius. Curabitur aliquet, magna at scelerisque interdum, ante dui viverra augue, et pulvinar ligula lacus finibus ipsum. Mauris sed blandit massa. Duis porttitor eleifend mollis. Etiam eu quam et ante vehicula eleifend nec iaculis dui. Phasellus eu sem tincidunt, porttitor enim at, imperdiet libero. Cras pellentesque non lorem eu molestie. Donec imperdiet risus consequat turpis ultricies dictum sit amet eu nunc.</p>
+      <p>I am an MS CS graduate student at The University of California, Davis. Before starting my Masters, I was working at Volkswagen IT Services as a Software Engineer in Deep Learning in the FutureTech Team. I also have experience as an intern in Shyena Tech Yarns and Schlumberger India. My interests include Deep Learning, Data Science, Backend Engineering. In my free time, I love playing outdoor sports and sometimes FIFA.</p>
     </div>
   </div>
   <a href="https://github.com/abhishekgokhale">
       <div class="item__image">
-        <img class="image card card--clickable image--lg" src="{{ site.baseurl }}/assets/images/LinkedChain/linkedchain_logo.png"/>
+        <img class="image card card--clickable image--lg" src="{{ site.baseurl }}/assets/images/LinkedChain/Abhishek_profile_photo.JPG"/>
       </div>
     </a>
 </div>
